@@ -52,15 +52,5 @@ This repository is published as a **technical showcase** of the project.
 Due to the nature of the platform and the presence of client-specific features, the complete production codebase remains private.
 
 Source code can be shared for technical review upon request.
-
----
-
-## 💻 Development Setup
-
-```bash
-composer install
-npm install
-cp .env.example .env
-php artisan key:generate
 php artisan migrate
 npm run dev
