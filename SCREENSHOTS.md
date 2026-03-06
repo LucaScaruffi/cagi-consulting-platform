@@ -84,15 +84,6 @@ Secure document upload interface allowing clients to send files directly to the 
 
 ![Document Upload](screenshots/client-upload.png)
 
----
-
-# Database Schema
-
-Overview of the platform database structure showing the main entities and relationships.
-
-The schema highlights the core architecture supporting:
-
-- user roles
 - document management
 - ticketing system
 - client–firm communication workflows
