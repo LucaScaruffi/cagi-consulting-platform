@@ -87,5 +87,3 @@ Secure document upload interface allowing clients to send files directly to the 
 - document management
 - ticketing system
 - client–firm communication workflows
-
-![Database Schema](screenshots/database-schema.png)
